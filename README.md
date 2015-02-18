@@ -100,7 +100,7 @@ following setup:
             |  |                              |   |
             |  |                              |   |
             |  |------------------------------|   |
-Page Tables |  |                              |   |  Backing Store Maps
+            Page Tables |  |                              |   |  Backing Store Maps
             |  |                              |   |
             |  |                              |   | 
             |  |                              |   |
